@@ -162,13 +162,10 @@ Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?
 
 ------------------------------
 
+
 *****************BEGIN LOG ENTRY*****************
-Sat Apr 21 2018 09:56:03 GMT-0400 (Eastern Daylight Time)
+Mon Apr 23 2018 10:48:40 GMT-0400 (Eastern Daylight Time)
 Results of 'my-tweets':
-------------------------------
-Sat Apr 21 13:50:35 +0000 2018
-Ok see ya later twitter
-------------------------------
  __________________________
 |                          |
 |  Your Twitter Stats:     |
@@ -179,12 +176,8 @@ Ok see ya later twitter
 
 Recent Tweets:
 ------------------------------
-Sat Apr 21 13:49:44 +0000 2018
-my 7th tweet
-------------------------------
-------------------------------
-Sat Apr 21 13:50:04 +0000 2018
-Is it lunch time yet?
+Sat Apr 21 13:50:35 +0000 2018
+Ok see ya later twitter
 ------------------------------
 ------------------------------
 Sat Apr 21 13:49:04 +0000 2018
@@ -199,18 +192,168 @@ Sat Apr 21 13:48:15 +0000 2018
 I have nothing else to tweet about
 ------------------------------
 ------------------------------
-Wed Apr 18 15:36:41 +0000 2018
-tweet 2 #classproject #gtcbc
-------------------------------
-------------------------------
 Sat Apr 21 13:47:47 +0000 2018
 more tweeting for the project #gtcbc
+------------------------------
+------------------------------
+Sat Apr 21 13:49:44 +0000 2018
+my 7th tweet
+------------------------------
+------------------------------
+Sat Apr 21 13:47:59 +0000 2018
+here's the 4th one
+------------------------------
+------------------------------
+Sat Apr 21 13:50:04 +0000 2018
+Is it lunch time yet?
+------------------------------
+------------------------------
+Wed Apr 18 15:36:41 +0000 2018
+tweet 2 #classproject #gtcbc
 ------------------------------
 ------------------------------
 Wed Apr 18 14:14:58 +0000 2018
 Tweeting this for a class project
 ------------------------------
+
+*****************BEGIN LOG ENTRY*****************
+Mon Apr 23 2018 10:49:12 GMT-0400 (Eastern Daylight Time)
+Results of 'spotify-this-song' lose yourself eminem:
+Song: Lose Yourself - Soundtrack Version
+Artist(s):  Eminem
+Album: Curtain Call (Deluxe)
+Preview: Currently Unavailable
+
 ------------------------------
-Sat Apr 21 13:47:59 +0000 2018
-here's the 4th one
+Song: Lose Yourself - Soundtrack Version
+Artist(s):  Eminem
+Album: Lose Yourself
+Preview: Currently Unavailable
+
+------------------------------
+Song: Lose Yourself - Soundtrack Version
+Artist(s):  Eminem
+Album: Lose Yourself
+Preview: Currently Unavailable
+
+------------------------------
+Song: Lose Yourself
+Artist(s):  Eminem
+Album: SHADYXV
+Preview: Currently Unavailable
+
+------------------------------
+Song: Lose Yourself - Soundtrack Version
+Artist(s):  Eminem
+Album: Curtain Call
+Preview: Currently Unavailable
+
+------------------------------
+
+*****************BEGIN LOG ENTRY*****************
+Mon Apr 23 2018 10:49:33 GMT-0400 (Eastern Daylight Time)
+Results of 'movie-this' the sandlot:
+
+------------------------------
+Title: The Sandlot
+Director: David Mickey Evans
+Year: 1993
+Rated: PG
+Country: USA
+Language: English
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 57%
+Starring: Art LaFleur, Tom Guiry, Mike Vitar, Patrick Renna
+Plot: 
+Scotty Smalls moves to a new neighborhood with his mom and stepdad, and wants to learn to play baseball. The neighborhood baseball guru Rodriquez takes Smalls under his wing, and soon he's part of the local baseball buddies. They fall into adventures involving baseball, treehouse sleep-ins, the desirous lifeguard at the local pool, the snooty rival ball team, and the travelling fair. Beyond the fence at the back of the sandlot menaces a legendary ball-eating dog called The Beast, and the kids inevitably must deal with him.
+------------------------------
+
+*****************BEGIN LOG ENTRY*****************
+Mon Apr 23 2018 10:49:53 GMT-0400 (Eastern Daylight Time)
+Results of 'do-what-it-says':
+Next Log Entry will be result of command contained in random.txt
+*****************BEGIN LOG ENTRY*****************
+Mon Apr 23 2018 10:49:53 GMT-0400 (Eastern Daylight Time)
+Results of 'spotify-this-song' "I Want it That Way":
+Song: I Want It That Way
+Artist(s):  Backstreet Boys
+Album: Millennium
+Preview: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: I Want It That Way
+Artist(s):  Backstreet Boys
+Album: The Hits--Chapter One
+Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: I Want It That Way
+Artist(s):  Anthem Lights
+Album: Covers Part IV
+Preview: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: I Want It That Way
+Artist(s):  Backstreet Boys
+Album: The Essential Backstreet Boys
+Preview: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Artist(s):  Glee Cast
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+
+*****************BEGIN LOG ENTRY*****************
+Mon Apr 23 2018 10:50:17 GMT-0400 (Eastern Daylight Time)
+Results of 'movie-this' Mr. Nobody:
+
+------------------------------
+Title: Mr. Nobody
+Director: Jaco Van Dormael
+Year: 2009
+Rated: R
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 66%
+Starring: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot: 
+In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+------------------------------
+
+*****************BEGIN LOG ENTRY*****************
+Mon Apr 23 2018 10:50:31 GMT-0400 (Eastern Daylight Time)
+Results of 'spotify-this-song' The Sign Ace of Base:
+Song: The Sign
+Artist(s):  Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: All That She Wants
+Artist(s):  Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: The Sign
+Artist(s):  Ace of Base
+Album: Greatest Hits
+Preview: https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: Living in Danger
+Artist(s):  Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/2fbf2512dd61a32d9ddda5b55a3e89ad368521b4?cid=45fa26426c41481f889dbc95d23d5029
+
+------------------------------
+Song: Don't Turn Around
+Artist(s):  Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/9c8401c8142bdd011e51f0211be2e2d4afcd5cff?cid=45fa26426c41481f889dbc95d23d5029
+
 ------------------------------

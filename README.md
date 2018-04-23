@@ -14,3 +14,5 @@ GT Coding Bootcamp Week 10 Homework: Nodejs Console App
     **Note: the movie/song requests will work with or without quotations around the movie/song
 
 --All requests/results are logged in log.txt
+
+LINK TO VIDEO DEMO: https://drive.google.com/file/d/1D8uSu3GoorPRkXd042agJS3psvJfG5pH/view
